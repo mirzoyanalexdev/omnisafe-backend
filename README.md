@@ -35,6 +35,10 @@ $ npm install
 ## Running the app
 
 ```bash
+
+# build scemas
+$ npx prisma generate
+
 # development
 $ npm run start
 
